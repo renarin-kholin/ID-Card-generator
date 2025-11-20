@@ -1,1 +1,1181 @@
-[]
+[
+	{
+		"Team ID": 1,
+		"Team Name": "Byte Builders",
+		"Member ID": "H001",
+		"Name": "JAISHREE EPILI",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 2
+	},
+	{
+		"Team ID": 1,
+		"Team Name": "Byte Builders",
+		"Member ID": "H002",
+		"Name": "Rahul Desai",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 2
+	},
+	{
+		"Team ID": 2,
+		"Team Name": "0xHackers",
+		"Member ID": "H003",
+		"Name": "Deep Pawar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 2,
+		"Team Name": "0xHackers",
+		"Member ID": "H004",
+		"Name": "Mayur Kshirsagar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 2,
+		"Team Name": "0xHackers",
+		"Member ID": "H005",
+		"Name": "Vivek Namdev Latpate",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 2,
+		"Team Name": "0xHackers",
+		"Member ID": "H006",
+		"Name": "Tanushri Rajput",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 3,
+		"Team Name": "Stranger Strings",
+		"Member ID": "H007",
+		"Name": "Varun Tushar Rahatgaonkar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 3,
+		"Team Name": "Stranger Strings",
+		"Member ID": "H008",
+		"Name": "TANAYA NILESH JAIN",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 3,
+		"Team Name": "Stranger Strings",
+		"Member ID": "H009",
+		"Name": "Nikhil Kale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 3,
+		"Team Name": "Stranger Strings",
+		"Member ID": "H010",
+		"Name": "Atharva Sanjay Pingale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 4,
+		"Team Name": "Hacktrix",
+		"Member ID": "H011",
+		"Name": "Anushka Kawalkar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 4,
+		"Team Name": "Hacktrix",
+		"Member ID": "H012",
+		"Name": "Prajakta Gorakh Kambale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 4,
+		"Team Name": "Hacktrix",
+		"Member ID": "H013",
+		"Name": "Mrunal Rajendra Thakare",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 5,
+		"Team Name": "Fsociety",
+		"Member ID": "H014",
+		"Name": "Kundan Sachin Patil",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 5,
+		"Team Name": "Fsociety",
+		"Member ID": "H015",
+		"Name": "Shivam Bhadane",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 5,
+		"Team Name": "Fsociety",
+		"Member ID": "H016",
+		"Name": "Yashkumar Khairnar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 5,
+		"Team Name": "Fsociety",
+		"Member ID": "H017",
+		"Name": "Atharva Kapse",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 6,
+		"Team Name": "CKL",
+		"Member ID": "H018",
+		"Name": "Ajay Singh Tomar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 6,
+		"Team Name": "CKL",
+		"Member ID": "H019",
+		"Name": "Abhishek Dabas",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 6,
+		"Team Name": "CKL",
+		"Member ID": "H020",
+		"Name": "Arsh tiwari",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 6,
+		"Team Name": "CKL",
+		"Member ID": "H021",
+		"Name": "ADITYA RANA",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 7,
+		"Team Name": "Pivot Squad",
+		"Member ID": "H022",
+		"Name": "Trishit Guin",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 7,
+		"Team Name": "Pivot Squad",
+		"Member ID": "H023",
+		"Name": "Manas Narendra Yeola",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 7,
+		"Team Name": "Pivot Squad",
+		"Member ID": "H024",
+		"Name": "Sanket Sanjay Naikwade",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 8,
+		"Team Name": "CONFUSION MATRIX",
+		"Member ID": "H025",
+		"Name": "Ketan Manohar Talegave",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 8,
+		"Team Name": "CONFUSION MATRIX",
+		"Member ID": "H026",
+		"Name": "Atharv Gavade",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 8,
+		"Team Name": "CONFUSION MATRIX",
+		"Member ID": "H027",
+		"Name": "Sumant Khalatkar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 8,
+		"Team Name": "CONFUSION MATRIX",
+		"Member ID": "H028",
+		"Name": "Prathamesh Talekar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 9,
+		"Team Name": "Code Cortex",
+		"Member ID": "H029",
+		"Name": "Akshit Rai",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 9,
+		"Team Name": "Code Cortex",
+		"Member ID": "H030",
+		"Name": "Aman Ayubkhan Pathan",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 9,
+		"Team Name": "Code Cortex",
+		"Member ID": "H031",
+		"Name": "Dhiraj Agrawal",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 10,
+		"Team Name": "DevCult",
+		"Member ID": "H032",
+		"Name": "Devansh Singh",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 10,
+		"Team Name": "DevCult",
+		"Member ID": "H033",
+		"Name": "YASH SHINDE",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 10,
+		"Team Name": "DevCult",
+		"Member ID": "H034",
+		"Name": "Vishal Chaure",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 11,
+		"Team Name": "GreenGrid",
+		"Member ID": "H035",
+		"Name": "Shaunak Vijay Hawaldar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 11,
+		"Team Name": "GreenGrid",
+		"Member ID": "H036",
+		"Name": "Sainath Prabhakar Chavan",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 11,
+		"Team Name": "GreenGrid",
+		"Member ID": "H037",
+		"Name": "Mohit Khairnar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 12,
+		"Team Name": "404 Error",
+		"Member ID": "H038",
+		"Name": "Sanika Sunil Bavaskar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 12,
+		"Team Name": "404 Error",
+		"Member ID": "H039",
+		"Name": "Aditya Singh",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 12,
+		"Team Name": "404 Error",
+		"Member ID": "H040",
+		"Name": "Pratik Mane",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 12,
+		"Team Name": "404 Error",
+		"Member ID": "H041",
+		"Name": "Aman Kumar Ravindra Singh",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 13,
+		"Team Name": "rocks",
+		"Member ID": "H042",
+		"Name": "Hrushikesh Ashok Pandarkar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 13,
+		"Team Name": "rocks",
+		"Member ID": "H043",
+		"Name": "Tithi Mehta",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 13,
+		"Team Name": "rocks",
+		"Member ID": "H044",
+		"Name": "Rajith Shetty",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 13,
+		"Team Name": "rocks",
+		"Member ID": "H045",
+		"Name": "Rachana Mahangare",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 14,
+		"Team Name": "MEDIMATES",
+		"Member ID": "H046",
+		"Name": "Harsh Pawar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 14,
+		"Team Name": "MEDIMATES",
+		"Member ID": "H047",
+		"Name": "Parikshit Desai",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 14,
+		"Team Name": "MEDIMATES",
+		"Member ID": "H048",
+		"Name": "Rohit Vaibhav Gatne",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 15,
+		"Team Name": "Falcons",
+		"Member ID": "H049",
+		"Name": "Sarthak Tulsidas Patil",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 15,
+		"Team Name": "Falcons",
+		"Member ID": "H050",
+		"Name": "Prathamesh Santosh Kolhe",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 15,
+		"Team Name": "Falcons",
+		"Member ID": "H051",
+		"Name": "Utkarsh Vidwat",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 16,
+		"Team Name": "The LuckyHackers",
+		"Member ID": "H052",
+		"Name": "Yash Pradip Pakale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 16,
+		"Team Name": "The LuckyHackers",
+		"Member ID": "H053",
+		"Name": "Samruddhi Devidas Deshmukh",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 16,
+		"Team Name": "The LuckyHackers",
+		"Member ID": "H054",
+		"Name": "Dhana Teja Gadiraju",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 17,
+		"Team Name": "BichdeHueDost",
+		"Member ID": "H055",
+		"Name": "Md Sufiyan Sajid Sajan",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 17,
+		"Team Name": "BichdeHueDost",
+		"Member ID": "H056",
+		"Name": "Shreyash Milind Chilip",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 17,
+		"Team Name": "BichdeHueDost",
+		"Member ID": "H057",
+		"Name": "Ram Narendra Belitkar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 17,
+		"Team Name": "BichdeHueDost",
+		"Member ID": "H058",
+		"Name": "Ashwin Mathur",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 18,
+		"Team Name": "Team Techolic",
+		"Member ID": "H059",
+		"Name": "Arun Govind",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 18,
+		"Team Name": "Team Techolic",
+		"Member ID": "H060",
+		"Name": "Arjun Ramkumar Gupta",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 18,
+		"Team Name": "Team Techolic",
+		"Member ID": "H061",
+		"Name": "Avdhut Hande",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 19,
+		"Team Name": "GOATS",
+		"Member ID": "H062",
+		"Name": "Jacell Jamble",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 19,
+		"Team Name": "GOATS",
+		"Member ID": "H063",
+		"Name": "Chaitanya Jathan",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 19,
+		"Team Name": "GOATS",
+		"Member ID": "H064",
+		"Name": "Shubham Adkhale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 19,
+		"Team Name": "GOATS",
+		"Member ID": "H065",
+		"Name": "Adrian",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 20,
+		"Team Name": "Avishkar",
+		"Member ID": "H066",
+		"Name": "Aavishkar Suresh Bhusare",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 20,
+		"Team Name": "Avishkar",
+		"Member ID": "H067",
+		"Name": "Nilesh Satish Dhole",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 20,
+		"Team Name": "Avishkar",
+		"Member ID": "H068",
+		"Name": "Aditya Ravsaheb Jadhav",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 20,
+		"Team Name": "Avishkar",
+		"Member ID": "H069",
+		"Name": "Ashwin Fula",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 21,
+		"Team Name": "Dot Developers",
+		"Member ID": "H070",
+		"Name": "Mohammad Ali Ansari",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 21,
+		"Team Name": "Dot Developers",
+		"Member ID": "H071",
+		"Name": "Huzaifa Zahid Husein Shah",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 21,
+		"Team Name": "Dot Developers",
+		"Member ID": "H072",
+		"Name": "Shaan Sakharkar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 21,
+		"Team Name": "Dot Developers",
+		"Member ID": "H073",
+		"Name": "Hannan Shemle",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 22,
+		"Team Name": "TechTrio",
+		"Member ID": "H074",
+		"Name": "Jidnyasa Patil",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 22,
+		"Team Name": "TechTrio",
+		"Member ID": "H075",
+		"Name": "Swarada Deshpande",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 22,
+		"Team Name": "TechTrio",
+		"Member ID": "H076",
+		"Name": "Asmi Tatawar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 23,
+		"Team Name": "Data Drivers",
+		"Member ID": "H077",
+		"Name": "Yash Gunjal",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 23,
+		"Team Name": "Data Drivers",
+		"Member ID": "H078",
+		"Name": "Sahil Yadav",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 23,
+		"Team Name": "Data Drivers",
+		"Member ID": "H079",
+		"Name": "Ubaid Kundlik",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 23,
+		"Team Name": "Data Drivers",
+		"Member ID": "H080",
+		"Name": "Anvesha Vyas",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 24,
+		"Team Name": "AgriVision",
+		"Member ID": "H081",
+		"Name": "Mayuresh Marade",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 24,
+		"Team Name": "AgriVision",
+		"Member ID": "H082",
+		"Name": "Rugved Tanaji Sawant",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 24,
+		"Team Name": "AgriVision",
+		"Member ID": "H083",
+		"Name": "Omkar Shinde",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 24,
+		"Team Name": "AgriVision",
+		"Member ID": "H084",
+		"Name": "Sahil Jagtap",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 25,
+		"Team Name": "Hackronauts",
+		"Member ID": "H085",
+		"Name": "Harsh Kumar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 25,
+		"Team Name": "Hackronauts",
+		"Member ID": "H086",
+		"Name": "Aditya Gaikar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 25,
+		"Team Name": "Hackronauts",
+		"Member ID": "H087",
+		"Name": "Annish Mundhe",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 25,
+		"Team Name": "Hackronauts",
+		"Member ID": "H088",
+		"Name": "Abdul Qadeer Mujahid",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 26,
+		"Team Name": "VoID",
+		"Member ID": "H089",
+		"Name": "Vinisha Kumar Bhagwani",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 26,
+		"Team Name": "VoID",
+		"Member ID": "H090",
+		"Name": "Maaz Qamar Khan",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 26,
+		"Team Name": "VoID",
+		"Member ID": "H091",
+		"Name": "Madhav Kiran Shah",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 26,
+		"Team Name": "VoID",
+		"Member ID": "H092",
+		"Name": "Apurva Ashok Khangal",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 27,
+		"Team Name": "XtraFusion",
+		"Member ID": "H093",
+		"Name": "Om Sachin Salunke",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 27,
+		"Team Name": "XtraFusion",
+		"Member ID": "H094",
+		"Name": "Nishant Navnath Talekar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 27,
+		"Team Name": "XtraFusion",
+		"Member ID": "H095",
+		"Name": "Atharva Kadam",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 27,
+		"Team Name": "XtraFusion",
+		"Member ID": "H096",
+		"Name": "Priti Sharma",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 28,
+		"Team Name": "ZeroKelvin",
+		"Member ID": "H097",
+		"Name": "Yash Rao",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 28,
+		"Team Name": "ZeroKelvin",
+		"Member ID": "H098",
+		"Name": "Darsh Nanavati",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 28,
+		"Team Name": "ZeroKelvin",
+		"Member ID": "H099",
+		"Name": "Rashi Bahekar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 28,
+		"Team Name": "ZeroKelvin",
+		"Member ID": "H100",
+		"Name": "Aaradhya Sonawane",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 29,
+		"Team Name": "Athenians",
+		"Member ID": "H101",
+		"Name": "Tanishka Nishant Nikam",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 29,
+		"Team Name": "Athenians",
+		"Member ID": "H102",
+		"Name": "Nirmitee Rahul Shinde",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 29,
+		"Team Name": "Athenians",
+		"Member ID": "H103",
+		"Name": "Bhavani Mahendra Saw",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 29,
+		"Team Name": "Athenians",
+		"Member ID": "H104",
+		"Name": "Shraddha Fakira Chaudhari",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 30,
+		"Team Name": "Rookie Geeks",
+		"Member ID": "H105",
+		"Name": "Pruthviraj Mahendra Gawande",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 30,
+		"Team Name": "Rookie Geeks",
+		"Member ID": "H106",
+		"Name": "Partha Kadam",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 30,
+		"Team Name": "Rookie Geeks",
+		"Member ID": "H107",
+		"Name": "PRASHIK SASANE",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 30,
+		"Team Name": "Rookie Geeks",
+		"Member ID": "H108",
+		"Name": "Pranav Jagatprem Gawande",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 31,
+		"Team Name": "Oppenheimer",
+		"Member ID": "H109",
+		"Name": "Sarthak Vinod Viche",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 31,
+		"Team Name": "Oppenheimer",
+		"Member ID": "H110",
+		"Name": "Arya Patil",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 31,
+		"Team Name": "Oppenheimer",
+		"Member ID": "H111",
+		"Name": "Saurav Wani",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 31,
+		"Team Name": "Oppenheimer",
+		"Member ID": "H112",
+		"Name": "Diya Prashant Wani",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 32,
+		"Team Name": "CodeNomads",
+		"Member ID": "H113",
+		"Name": "Aditya Ravindra Chaubey",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 32,
+		"Team Name": "CodeNomads",
+		"Member ID": "H114",
+		"Name": "Diksha Vinod Gidwani",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 32,
+		"Team Name": "CodeNomads",
+		"Member ID": "H115",
+		"Name": "Himanshu Suresh Khirale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 32,
+		"Team Name": "CodeNomads",
+		"Member ID": "H116",
+		"Name": "Siddhant Sandesh Karnawat",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 33,
+		"Team Name": "CodeFusion",
+		"Member ID": "H117",
+		"Name": "Mehek Khan",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 33,
+		"Team Name": "CodeFusion",
+		"Member ID": "H118",
+		"Name": "Gulammoinuddin Ghare",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 33,
+		"Team Name": "CodeFusion",
+		"Member ID": "H119",
+		"Name": "Pracheta Satapathy",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 33,
+		"Team Name": "CodeFusion",
+		"Member ID": "H120",
+		"Name": "Nidhi Mane",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 34,
+		"Team Name": "AlgoAlliance",
+		"Member ID": "H121",
+		"Name": "Yash Kanse",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 34,
+		"Team Name": "AlgoAlliance",
+		"Member ID": "H122",
+		"Name": "Harsh Hinukale",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 34,
+		"Team Name": "AlgoAlliance",
+		"Member ID": "H123",
+		"Name": "Parth Charankar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 3
+	},
+	{
+		"Team ID": 35,
+		"Team Name": "Runtime Terror",
+		"Member ID": "H124",
+		"Name": "Srinidhi Kulkarni",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 35,
+		"Team Name": "Runtime Terror",
+		"Member ID": "H125",
+		"Name": "Neil Landge",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 35,
+		"Team Name": "Runtime Terror",
+		"Member ID": "H126",
+		"Name": "Mohit Dargude",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 35,
+		"Team Name": "Runtime Terror",
+		"Member ID": "H127",
+		"Name": "Shreya Ghuse",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 36,
+		"Team Name": "Bug busters",
+		"Member ID": "H128",
+		"Name": "Sumeet Attri",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 36,
+		"Team Name": "Bug busters",
+		"Member ID": "H129",
+		"Name": "Sachin Kumar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 36,
+		"Team Name": "Bug busters",
+		"Member ID": "H130",
+		"Name": "Shivam Kumar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	},
+	{
+		"Team ID": 36,
+		"Team Name": "Bug busters",
+		"Member ID": "H131",
+		"Name": "Pankaj Kumar",
+		"Email": "",
+		"Phone": "",
+		"Member Count": 4
+	}
+]
