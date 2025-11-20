@@ -1,0 +1,22 @@
+{
+	"name": "tenet-id-generator",
+	"version": "1.0.0",
+	"description": "",
+	"license": "ISC",
+	"author": "",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc ",
+		"start": "node dist/generate-ids.js",
+		"generate": "npm run build && npm run start"
+	},
+	"dependencies": {
+		"sharp": "^0.34.4"
+	},
+	"devDependencies": {
+		"@types/node": "^24.7.0",
+		"@types/sharp": "^0.31.1",
+		"typescript": "^5.9.3"
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",          // Compile to a modern JavaScript version
+    "module": "NodeNext",         // Use the modern Node.js module system
+    "moduleResolution": "NodeNext",
+    "outDir": "./dist",           // Output compiled JavaScript to a 'dist' folder
+    "rootDir": "./src",           // Source TypeScript files are in a 'src' folder
+    "strict": true,               // Enable all strict type-checking options
+    "esModuleInterop": true,      // Allows for better interoperability with CommonJS modules
+    "skipLibCheck": true,         // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"] // Only compile files inside the 'src' directory
+}
